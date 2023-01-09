@@ -1,0 +1,6 @@
+C:\Users\fedya\C-Sharp\MarriageCalculator\MarriageCalculator\bin\Debug\MarriageCalculator.exe
+C:\Users\fedya\C-Sharp\MarriageCalculator\MarriageCalculator\bin\Debug\MarriageCalculator.pdb
+C:\Users\fedya\C-Sharp\MarriageCalculator\MarriageCalculator\obj\Debug\MarriageCalculator.csproj.AssemblyReference.cache
+C:\Users\fedya\C-Sharp\MarriageCalculator\MarriageCalculator\obj\Debug\MarriageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fedya\C-Sharp\MarriageCalculator\MarriageCalculator\obj\Debug\MarriageCalculator.exe
+C:\Users\fedya\C-Sharp\MarriageCalculator\MarriageCalculator\obj\Debug\MarriageCalculator.pdb
